@@ -53,6 +53,10 @@ Working 💼 **`@TCS`** as a Software Developer.
 
 ---
 
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Poulami007&show_rank=true&extension=activity)](https://leetcode.com/Poulami007/)
+
+---
+
 ### You can find in me in the web 🌍
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
